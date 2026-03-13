@@ -1,0 +1,96 @@
+# ========================
+# Cabal build artifacts
+# ========================
+
+dist/
+dist-*/
+cabal-dev/
+cabal.sandbox.config
+.cabal-sandbox/
+
+# New-style Cabal builds
+dist-newstyle/
+cabal.project.local
+cabal.project.local~
+cabal.project.freeze
+
+# ========================
+# GHC artifacts
+# ========================
+
+*.hi
+*.o
+*.dyn_o
+*.dyn_hi
+*.prof
+*.aux
+*.hp
+*.eventlog
+
+# ========================
+# GHCi
+# ========================
+
+.ghci
+ghci_history
+
+# ========================
+# Haskell Language Server
+# ========================
+
+.hie/
+.hls/
+
+# ========================
+# Stack (if ever used)
+# ========================
+
+.stack-work/
+
+# ========================
+# OS junk
+# ========================
+
+.DS_Store
+Thumbs.db
+
+# ========================
+# Editors
+# ========================
+
+# VSCode
+.vscode/
+
+# IntelliJ / IDEA
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*#
+.#*
+
+# ========================
+# Logs
+# ========================
+
+*.log
+
+# ========================
+# Coverage / HPC
+# ========================
+
+.hpc/
+
+# ========================
+# Nix (if you ever use it)
+# ========================
+
+result
+result-*
+
+.fossil-settings
+.fossil
