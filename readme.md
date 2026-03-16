@@ -2,7 +2,8 @@ Built this simple program to get a better feeling on how to structure a Haskell 
 some real libraries. 
 
 This one implements a first order Markov chain that I can use to:
-    * Generate patterned images with the `JuicyPixels` library
-    * Building paragraphs from input text.
+
+* Generate patterned images with the `JuicyPixels` library
+* Building paragraphs from input text.
 
 ![map](samples/map2.png)
