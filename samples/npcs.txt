@@ -1,152 +1,810 @@
-Good morning traveler.
-You look like you've been on the road a while.
-The weather's turning strange these days.
-Not many folk pass through here anymore.
-Careful if you're heading into the forest.
-They say something moved into the old ruins.
-I used to be an adventurer once.
-These old bones don't travel far now.
-The inn has warm food if you have coin.
-Stay away from the marsh at night.
-Strange lights dance over the water there.
-I heard wolves howling all night.
-The guards have been restless lately.
-Someone stole from the shrine again.
-The priest is furious about it.
-You look like someone who can handle trouble.
-Looking for work are you?
-There's always work for brave souls.
-Bandits have been troubling the roads.
-Merchants are afraid to travel.
-The blacksmith needs iron from the hills.
-Nobody wants to go up there anymore.
-A storm rolled in from the mountains yesterday.
-I've never seen clouds that color.
-Something isn't right with the land.
-Crops have been failing all season.
-The river smells strange lately.
-Fish started floating to the surface last week.
-Old Marta says it's a curse.
-I think she's half mad.
-Still, best not ignore old warnings.
-You carry yourself like a fighter.
-Maybe you could help our village.
-The mayor is always looking for capable hands.
-Just don't expect much pay.
-We're simple folk here.
-The innkeeper hears everything.
-If you want rumors go talk to him.
-Travelers bring strange stories.
-Last week someone claimed to see a dragon.
-I doubt it was a dragon.
-Probably just a wyvern.
-Still dangerous enough.
-Keep your weapon close at night.
-The woods are not safe anymore.
-I swear the trees move sometimes.
-Perhaps it's just the wind.
-Or perhaps not.
-Have you visited the old tower?
-It stands empty now.
-At least that's what people say.
-Lights still glow in its windows.
-No one dares to check.
-There's treasure in those ruins.
-At least that's the rumor.
-Treasure and trouble usually come together.
-If you're wise you'll remember that.
-The road east leads to the capital.
-It's a long journey from here.
-You'll need supplies for the trip.
-The merchant caravan left yesterday.
-Bad timing for you.
-Another caravan may come next week.
-If the roads stay safe.
-Which they probably won't.
-The guards are stretched thin.
-Too many problems lately.
-Too many shadows moving at night.
-My dog refuses to go outside after dark.
-Animals sense things we cannot.
-Trust their instincts.
-You seem trustworthy enough.
-Still, trust must be earned.
-Everyone has secrets.
-Even you I suspect.
-Care to share a drink?
-The ale is decent tonight.
-Better than usual actually.
-The brewer must have gotten lucky.
-Or maybe desperate.
-People drink more when times are bad.
-And times are definitely bad.
-Have you seen the sky tonight?
-The stars look wrong somehow.
-Like they're watching us.
-I don't like it one bit.
-But what can we do?
-Life goes on regardless.
-Chickens still need feeding.
-Fields still need plowing.
-And travelers still wander through.
-Like you for example.
-Where are you headed anyway?
-North is cold this time of year.
-South is worse if you ask me.
-Too many wars down there.
-War follows gold.
-And gold follows fools.
-Try not to be either.
-The mountains hold old secrets.
-Older than the kingdom itself.
-Miners sometimes find strange things.
-Most of them keep quiet.
-Smart miners do anyway.
-If you find something cursed.
-Throw it back where you found it.
-Trust me on that.
-I've seen what happens otherwise.
-Not pretty at all.
-But enough dark talk.
-Tell me something interesting.
-Seen any monsters lately?
-Adventurers always have stories.
-Half of them lies of course.
-But good lies are entertaining.
-A quiet village needs excitement.
-Even if it's only gossip.
-Speaking of gossip.
-The miller hasn't been seen in days.
-His door is locked tight.
-Smoke still rises from the chimney though.
-Strange if you ask me.
-Maybe he's hiding from debt collectors.
-Or maybe something else.
-If you investigate be careful.
-Curiosity can be dangerous.
-Especially around here lately.
-Still, someone should check.
-Maybe that someone is you.
-You look capable enough.
-Just don't blame me if things go wrong.
-I only pass along rumors.
-The truth is your problem.
-Adventure rarely comes easy.
-But sometimes it finds you anyway.
-Best be ready when it does.
-Keep your blade sharp.
-Keep your wits sharper.
-And never trust a smiling stranger.
-Unless that stranger is me of course.
-And even then be cautious.
-The world is changing friend.
-I can feel it in the wind.
-Something big is coming.
-Whether it's good or bad.
-Only time will tell.
-Until then we endure.
-Just like we always have.
-Safe travels wanderer.
-May the road treat you kindly.
-And may trouble find someone else.
+Good
+morning
+traveler.
+You
+look
+like
+you've
+been
+on
+the
+road
+a
+while.
+The
+weather's
+turning
+strange
+these
+days.
+Not
+many
+folk
+pass
+through
+here
+anymore.
+Careful
+if
+you're
+heading
+into
+the
+forest.
+They
+say
+something
+moved
+into
+the
+old
+ruins.
+I
+used
+to
+be
+an
+adventurer
+once.
+These
+old
+bones
+don't
+travel
+far
+now.
+The
+inn
+has
+warm
+food
+if
+you
+have
+coin.
+Stay
+away
+from
+the
+marsh
+at
+night.
+Strange
+lights
+dance
+over
+the
+water
+there.
+I
+heard
+wolves
+howling
+all
+night.
+The
+guards
+have
+been
+restless
+lately.
+Someone
+stole
+from
+the
+shrine
+again.
+The
+priest
+is
+furious
+about
+it.
+You
+look
+like
+someone
+who
+can
+handle
+trouble.
+Looking
+for
+work
+are
+you?
+There's
+always
+work
+for
+brave
+souls.
+Bandits
+have
+been
+troubling
+the
+roads.
+Merchants
+are
+afraid
+to
+travel.
+The
+blacksmith
+needs
+iron
+from
+the
+hills.
+Nobody
+wants
+to
+go
+up
+there
+anymore.
+A
+storm
+rolled
+in
+from
+the
+mountains
+yesterday.
+I've
+never
+seen
+clouds
+that
+color.
+Something
+isn't
+right
+with
+the
+land.
+Crops
+have
+been
+failing
+all
+season.
+The
+river
+smells
+strange
+lately.
+Fish
+started
+floating
+to
+the
+surface
+last
+week.
+Old
+Marta
+says
+it's
+a
+curse.
+I
+think
+she's
+half
+mad.
+Still,
+best
+not
+ignore
+old
+warnings.
+You
+carry
+yourself
+like
+a
+fighter.
+Maybe
+you
+could
+help
+our
+village.
+The
+mayor
+is
+always
+looking
+for
+capable
+hands.
+Just
+don't
+expect
+much
+pay.
+We're
+simple
+folk
+here.
+The
+innkeeper
+hears
+everything.
+If
+you
+want
+rumors
+go
+talk
+to
+him.
+Travelers
+bring
+strange
+stories.
+Last
+week
+someone
+claimed
+to
+see
+a
+dragon.
+I
+doubt
+it
+was
+a
+dragon.
+Probably
+just
+a
+wyvern.
+Still
+dangerous
+enough.
+Keep
+your
+weapon
+close
+at
+night.
+The
+woods
+are
+not
+safe
+anymore.
+I
+swear
+the
+trees
+move
+sometimes.
+Perhaps
+it's
+just
+the
+wind.
+Or
+perhaps
+not.
+Have
+you
+visited
+the
+old
+tower?
+It
+stands
+empty
+now.
+At
+least
+that's
+what
+people
+say.
+Lights
+still
+glow
+in
+its
+windows.
+No
+one
+dares
+to
+check.
+There's
+treasure
+in
+those
+ruins.
+At
+least
+that's
+the
+rumor.
+Treasure
+and
+trouble
+usually
+come
+together.
+If
+you're
+wise
+you'll
+remember
+that.
+The
+road
+east
+leads
+to
+the
+capital.
+It's
+a
+long
+journey
+from
+here.
+You'll
+need
+supplies
+for
+the
+trip.
+The
+merchant
+caravan
+left
+yesterday.
+Bad
+timing
+for
+you.
+Another
+caravan
+may
+come
+next
+week.
+If
+the
+roads
+stay
+safe.
+Which
+they
+probably
+won't.
+The
+guards
+are
+stretched
+thin.
+Too
+many
+problems
+lately.
+Too
+many
+shadows
+moving
+at
+night.
+My
+dog
+refuses
+to
+go
+outside
+after
+dark.
+Animals
+sense
+things
+we
+cannot.
+Trust
+their
+instincts.
+You
+seem
+trustworthy
+enough.
+Still,
+trust
+must
+be
+earned.
+Everyone
+has
+secrets.
+Even
+you
+I
+suspect.
+Care
+to
+share
+a
+drink?
+The
+ale
+is
+decent
+tonight.
+Better
+than
+usual
+actually.
+The
+brewer
+must
+have
+gotten
+lucky.
+Or
+maybe
+desperate.
+People
+drink
+more
+when
+times
+are
+bad.
+And
+times
+are
+definitely
+bad.
+Have
+you
+seen
+the
+sky
+tonight?
+The
+stars
+look
+wrong
+somehow.
+Like
+they're
+watching
+us.
+I
+don't
+like
+it
+one
+bit.
+But
+what
+can
+we
+do?
+Life
+goes
+on
+regardless.
+Chickens
+still
+need
+feeding.
+Fields
+still
+need
+plowing.
+And
+travelers
+still
+wander
+through.
+Like
+you
+for
+example.
+Where
+are
+you
+headed
+anyway?
+North
+is
+cold
+this
+time
+of
+year.
+South
+is
+worse
+if
+you
+ask
+me.
+Too
+many
+wars
+down
+there.
+War
+follows
+gold.
+And
+gold
+follows
+fools.
+Try
+not
+to
+be
+either.
+The
+mountains
+hold
+old
+secrets.
+Older
+than
+the
+kingdom
+itself.
+Miners
+sometimes
+find
+strange
+things.
+Most
+of
+them
+keep
+quiet.
+Smart
+miners
+do
+anyway.
+If
+you
+find
+something
+cursed.
+Throw
+it
+back
+where
+you
+found
+it.
+Trust
+me
+on
+that.
+I've
+seen
+what
+happens
+otherwise.
+Not
+pretty
+at
+all.
+But
+enough
+dark
+talk.
+Tell
+me
+something
+interesting.
+Seen
+any
+monsters
+lately?
+Adventurers
+always
+have
+stories.
+Half
+of
+them
+lies
+of
+course.
+But
+good
+lies
+are
+entertaining.
+A
+quiet
+village
+needs
+excitement.
+Even
+if
+it's
+only
+gossip.
+Speaking
+of
+gossip.
+The
+miller
+hasn't
+been
+seen
+in
+days.
+His
+door
+is
+locked
+tight.
+Smoke
+still
+rises
+from
+the
+chimney
+though.
+Strange
+if
+you
+ask
+me.
+Maybe
+he's
+hiding
+from
+debt
+collectors.
+Or
+maybe
+something
+else.
+If
+you
+investigate
+be
+careful.
+Curiosity
+can
+be
+dangerous.
+Especially
+around
+here
+lately.
+Still,
+someone
+should
+check.
+Maybe
+that
+someone
+is
+you.
+You
+look
+capable
+enough.
+Just
+don't
+blame
+me
+if
+things
+go
+wrong.
+I
+only
+pass
+along
+rumors.
+The
+truth
+is
+your
+problem.
+Adventure
+rarely
+comes
+easy.
+But
+sometimes
+it
+finds
+you
+anyway.
+Best
+be
+ready
+when
+it
+does.
+Keep
+your
+blade
+sharp.
+Keep
+your
+wits
+sharper.
+And
+never
+trust
+a
+smiling
+stranger.
+Unless
+that
+stranger
+is
+me
+of
+course.
+And
+even
+then
+be
+cautious.
+The
+world
+is
+changing
+friend.
+I
+can
+feel
+it
+in
+the
+wind.
+Something
+big
+is
+coming.
+Whether
+it's
+good
+or
+bad.
+Only
+time
+will
+tell.
+Until
+then
+we
+endure.
+Just
+like
+we
+always
+have.
+Safe
+travels
+wanderer.
+May
+the
+road
+treat
+you
+kindly.
+And
+may
+trouble
+find
+someone
+else.
 
