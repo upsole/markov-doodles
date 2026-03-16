@@ -1,0 +1,148 @@
+Yes.
+No.
+Maybe.
+Ask again later.
+The answer is unclear.
+The signs point to yes.
+The signs point to no.
+Better not tell you now.
+Try again tomorrow.
+It is certain.
+It is possible.
+It is unlikely.
+Doubt it.
+Absolutely.
+Without question.
+Very doubtful.
+Chances are good.
+Chances are poor.
+Focus and ask again.
+Your timing is off.
+Wait a little longer.
+Soon.
+Not today.
+The answer hides in patience.
+Luck favors you.
+Luck avoids you today.
+Fortune smiles quietly.
+Fortune is distracted.
+The future is cloudy.
+The path is open.
+The path is blocked.
+A surprise awaits.
+Expect the unexpected.
+Good news approaches.
+Bad news travels slowly.
+Something changes soon.
+Nothing changes yet.
+Trust your instincts.
+Trust no one today.
+Look closer.
+Look elsewhere.
+Listen carefully.
+Silence holds the answer.
+Your doubt is wise.
+Your doubt misleads you.
+A friend will help.
+A stranger will help.
+Help comes from nowhere.
+You must help yourself.
+Take the first step.
+Take no steps yet.
+Move forward.
+Stay where you are.
+Turn back.
+Turn left.
+Turn right.
+Go quietly.
+Act boldly.
+Wait and watch.
+Act quickly.
+Act carefully.
+Haste brings trouble.
+Patience brings reward.
+A small risk is wise.
+A great risk is foolish.
+The risk may pay off.
+The risk may not.
+An opportunity appears.
+An opportunity fades.
+Something lost returns.
+Something found disappears.
+A secret will surface.
+A secret should remain buried.
+Truth approaches.
+Truth hides for now.
+The answer is closer than you think.
+The answer is far away.
+You already know.
+You will soon know.
+You are asking the wrong question.
+Ask the right question.
+The outcome depends on you.
+The outcome is fixed.
+Your luck improves.
+Your luck fades.
+Good fortune approaches.
+Misfortune approaches.
+Balance is restored.
+Balance is broken.
+A door opens.
+A door closes.
+Another door appears.
+Choose wisely.
+Choice matters.
+Choice changes nothing.
+Follow your heart.
+Follow your head.
+Follow the quiet path.
+Follow the loud one.
+Trust the moment.
+Distrust appearances.
+What seems simple is not.
+What seems hard is easy.
+The obvious answer is wrong.
+The hidden answer is right.
+A delay helps you.
+A delay harms you.
+Soon you will understand.
+You are not ready yet.
+The stars approve.
+The stars disagree.
+The stars are silent.
+The wind says yes.
+The wind says no.
+Even the wind is unsure.
+Tomorrow is better.
+Tomorrow is worse.
+Today decides everything.
+Today decides nothing.
+You will laugh about this later.
+You will regret this later.
+You will forget this soon.
+You will remember this always.
+All signs are good.
+All signs are bad.
+Signs conflict.
+The signs are misleading.
+The answer drifts away.
+The answer grows stronger.
+The moment passes.
+The moment arrives.
+Fortune favors courage.
+Fortune favors caution.
+Fortune favors patience.
+Fortune favors action.
+Do not ignore the warning.
+The warning is false.
+A test approaches.
+You will pass the test.
+You may fail the test.
+Failure teaches you.
+Success surprises you.
+You are closer than you think.
+You are farther than you think.
+This ends well.
+This ends poorly.
+The story continues.
+The story ends soon.

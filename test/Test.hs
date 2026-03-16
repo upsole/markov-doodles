@@ -1,6 +1,7 @@
 import Test.Tasty
 import Test.Tasty.HUnit
-import Markov
+import qualified Markov as M
+import System.Random.Stateful as R
 
 import Data.Map as Map
 
@@ -14,24 +15,31 @@ unitTests = testGroup "1D FreqTable"
     [ 
       basic1DFreqTable,
       basic1DFreqTable_NoFinalState,
-      worksWithAnyOrd
+      worksWithAnyOrd,
+      markovGenerateGolden
     ]
 
 basic1DFreqTable = testCase "1D String, 1 Final State" $
-    assertEqual "actual == expected" (actual == expected) True
+    assertEqual "actual == expected" actual expected
     where
-        actual = buildFreqTable "001012"
+        actual   = M.buildFreqTable "001012"
         expected = Map.fromList [ ('0', Map.fromList [('0', 1), ('1', 2)]), 
                                   ('1', Map.fromList [('0', 1), ('2', 1)]) 
                                 ]
 basic1DFreqTable_NoFinalState = testCase "1D String, No Final State" $
-    assertEqual "actual == expected" (actual == expected) True
+    assertEqual "actual == expected" actual expected
     where
-        actual = buildFreqTable "0010120"
+        actual   = M.buildFreqTable "0010120"
         expected = Map.fromList [ ('0', Map.fromList [('0', 1), ('1', 2)]), 
                                   ('1', Map.fromList [('0', 1), ('2', 1)]),
                                   ('2', Map.fromList [('0', 1)])
                                 ]
+
+markovGenerateGolden = testCase "Markov golden test 1" $ do
+    let freq = M.buildFreqTable "00101011100012"
+    gen <- R.newIOGenM (R.mkStdGen 23)
+    samples <- M.markovGenerate gen freq 16 
+    assertEqual "actual == expected" samples "0001000010011112"
 
 data EnumFoo = Eins | Zwei | Drei | Vier
   deriving (Eq, Show, Enum, Bounded, Ord)
@@ -44,4 +52,4 @@ worksWithAnyOrd = testCase "Works with any Ord type" $
                                   (Zwei, Map.fromList [(Drei, 1)]), 
                                   (Vier, Map.fromList [(Eins, 2)])
                                 ]
-        actual   = buildFreqTable [ Drei, Eins, Zwei, Drei, Vier, Eins, Vier, Eins ]
+        actual   = M.buildFreqTable [ Drei, Eins, Zwei, Drei, Vier, Eins, Vier, Eins ]

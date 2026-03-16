@@ -56,7 +56,7 @@ executable markov-doodles
     -- Import common warning flags.
     import:           common-settings
     main-is:          Main.hs
-    other-modules:    Markov
+    other-modules:    Markov, Image
     hs-source-dirs:   app
     default-language: Haskell2010
 
